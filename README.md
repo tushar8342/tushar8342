@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tushar Kumar Sahu</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<h4>🖥️ A passionate programmer with ability to learn quickly and implement and also versatile enough to learn and work in new environment.
+<h4 align="center">🖥️ A passionate programmer with ability to learn quickly and implement and also versatile enough to learn and work in new environment.
 
 👉🏼 Currently looking for an opportunity to work for an organization where I can contribute my skills and manage key projects that impact the organization, as well as broaden my scope of learning from the organization’s team members.
 
 💯 A very Enthusiastic person who loves to do a job with perfection. I believe that the solution to real-world problems is modern technologies.
 
 👨🏻‍💻 Always interested in talking about Data Structures and algorithms.</h4>
- <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="">
+ <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="" align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar8342&label=Profile%20views&color=0e75b6&style=flat" alt="tushar8342" /> </p>
 
