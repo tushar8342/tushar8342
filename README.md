@@ -8,7 +8,7 @@
 💯 A very Enthusiastic person who loves to do a job with perfection. I believe that the solution to real-world problems is modern technologies.
 
 👨🏻‍💻 Always interested in talking about Data Structures and algorithms.</h4>
- <img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="">
+ <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar8342&label=Profile%20views&color=0e75b6&style=flat" alt="tushar8342" /> </p>
 
